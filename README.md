@@ -1,2 +1,2 @@
-# Keeper-app
-Created with CodeSandbox
+This is a keeper app, Start writing your notes!
+https://zivkeeperapp.netlify.app/
